@@ -1,6 +1,6 @@
 ### Hi there 👋, Md. Sakir AHmed
 #### Web Application Developer
-![Web Application Developer](https://lh3.googleusercontent.com/a-/AOh14GgQmm24bZe_XjVGY3vv65hraLTsg8xbu3y_o3fH=k-s256)
+![Web Application Developer](https://mdsakir.com/web-storage/sakir-github-bg.png)
 
 I'm a software engineer, working on web application development with Laravel Framework for a long time and React JS. I have a long industrial experience working on web applications at eGeneration Public Limited Company. I can develop or update any kind of web application such as CRM, Enterprise application or management software according to business logic. 
 
